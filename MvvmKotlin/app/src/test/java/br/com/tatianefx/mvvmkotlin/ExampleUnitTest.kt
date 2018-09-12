@@ -1,4 +1,4 @@
-package tatianefx.com.br.mvvmkotlin
+package br.com.tatianefx.mvvmkotlin
 
 import org.junit.Test
 
